@@ -1,0 +1,38 @@
+main div {
+
+    color: grey;
+    text-align: center;
+    flex-wrap: wrap;
+    width: 393px;
+    height: 396px;
+    margin-top: 20px;
+    
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 100px;
+}
+header{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.headdd{
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+footer{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
